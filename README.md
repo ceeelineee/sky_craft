@@ -2,8 +2,8 @@
 A dreamy, simplified minecraft game.
 
 
-  right click: add a block
-  left click: remove block
-  e : enable camera view
-  p : enable player view
+  right click: add a block\n
+  left click: remove block\n
+  e : enable camera view\n
+  p : enable player view\n
   q : quit
